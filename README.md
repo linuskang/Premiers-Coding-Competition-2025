@@ -1,36 +1,20 @@
 # Bubbly: Mapping out Australia's water fountains
 
+> Bubbly, an app I designed for people to find their nearest water fountain anywhere in Australia, was my award winning submission for the 2025 Premier Coding Competition QLD. This repository has since been archived however I've decided to continue maintaining the project. You can view the new repository at [bubblymaps/bubblymaps](https://github.com/bubblymaps/bubblymaps).
+> 
+> The updated site url is at https://bubblymaps.org
+> 
+> Below is the original README
+
+-----------------------------
+
 <img width="2556" height="1274" alt="image" src="https://github.com/user-attachments/assets/5f732818-b3c7-4ec8-aa6b-c344a211f938" />
 
 **Bubbly** is an all-in-one app designed to help you locate your nearest water fountain, with our code open sourced. This was my submission for the *2025 Premier Coding Comp* in Australia.
 
 You can access **Bubbly** at https://bubbly.linuskang.au.
 
-> [!NOTE]
-> After seeing the potential impact of my app on Australian's, I've decided to continue maintaining the project and rewrite everything to be production ready for Version 2. Information about that can be found here: https://lkang.au/bubbly. The new improved version with more features, better ui, and more developer friendly api endpoints will cover the whole world, not just Australia.
 
-> [!TIP]
-> These are the following pages that users can access on the site:
->
-> ``/`` - Main map page
-> 
-> ``/user/username_here`` - Access a user's account profile (i.e. https://bubbly.linuskang.au/user/linuskang)
-
-> [!TIP]
-> Have you noticed anything broken on the site? I'm here to help! Please reach out at email@linus.id.au for anything you find!
-> 
-> Additionally, check my [status page](https://status.linuskang.au) for any outage updates on my site.
-
-> [!TIP]
-> Wanting to contribute?
->
-> If your account is above level 10, you can start editing information on Bubbly! Start by pressing on a Bubbler of your choice, and press the edit icon on the water bubbler header. Now, you can appropriately edit the information to keep Bubbly accurate!
->
-> Above level 20? You can start adding bubblers to the database! Right click on the point of the map where you would like to add a bubbler, and press Add bubbler and fill out the information for it. Please note all edits and contributions from users are heavily moderated by our team and any inapropriate contributions will be wiped off the platform.
-
-If you would like an example of a water bubbler, here is one at my school grounds: https://bubbly.linuskang.au/?waypoint=6207
-
-You can view a sample review that Ive placed and click on my user profile!
 
 ## About the platform
 
@@ -573,6 +557,7 @@ View the full policy at https://lkang.au/privacy
 ## Credit
 
 **Bubbly** is a project by **Linus Kang**. For any enquiries, please reach out at **email@linus.id.au**
+
 
 
 
