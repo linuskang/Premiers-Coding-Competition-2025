@@ -1,10 +1,7 @@
 > [!NOTE]
-> # ATTENTION!
-> Bubbly, an app I designed for people to find their nearest water fountain anywhere in Australia, was my award winning submission for the 2025 Premier Coding Competition QLD. This repository has since been archived however I've decided to continue maintaining the project. You can view the new repository at [bubblymaps/bubblymaps](https://github.com/bubblymaps/bubblymaps).
-> 
-> The updated site url is at https://bubblymaps.org
-> 
-> Below is the original README
+> **This repository has been deprecated.**
+>
+> Below is the original README.
 
 ## Bubbly: Mapping out Australia's water fountains
 
